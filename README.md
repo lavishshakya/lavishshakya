@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi ✨, I'm Lavish Shakya</h1>
+<h3 align="center">Competitive Programmer | Full Stack Developer</h3>
 
-<!--
-**lavishshakya/lavishshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 💻 Passionate about building scalable web applications
+- 🚀 Interested in Backend Development & System Design
+- 🌱 Currently improving my DSA & problem-solving skills
+- 🛠 Love working with modern web technologies
+- 📫 Reach me at: lavishshakya066@gmail.com
+- 🇮🇳 India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+---
+
+### Languages and Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,git,html,css" />
+</p>
