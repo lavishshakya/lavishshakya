@@ -14,10 +14,10 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/lavish-shakya-a5690218b/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
+<a href="https://instagram.com/lavishshakya66" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
